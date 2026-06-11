@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://project-management-gs.vercel.app/favicon.png" width="20" height="20" alt="project-management Favicon">
+  <h1><img src="https://github.com/cloudCoder512/project-management-main-CodeAlpha-/blob/master/src/assets/favicon.png" width="20" height="20" alt="project-management Favicon">
    project-management</h1>
   <p>
     An open-source project management platform built with ReactJS and Tailwind CSS.
